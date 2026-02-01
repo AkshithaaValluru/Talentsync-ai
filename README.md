@@ -1,4 +1,4 @@
-# 🚀 TalentFlow AI  
+# 🚀 TalentSync AI  
 ### Intelligent Resume–Job Matching System
 
 ## 📌 Problem Statement  
